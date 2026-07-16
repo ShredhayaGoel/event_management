@@ -155,6 +155,9 @@ This project helped in understanding:
 ## 👨‍💻 Author
 
 **Shredhaya Goel**
+**Niharika**
+**Pragti Rajput**
+**Riya**
 
 GitHub: https://github.com/ShredhayaGoel
 
